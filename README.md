@@ -55,6 +55,7 @@ Informative articles about cooperative tech:
 #### Other Lists
 * [tech-coops](https://github.com/hng/tech-coops)
 * [IOO Directory](https://ioo.coop/directory/)
+* [Apply.coop](https://apply.coop/)
 
 ---
 
